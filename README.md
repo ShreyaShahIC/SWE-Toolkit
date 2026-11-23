@@ -1,6 +1,6 @@
 # SE-Toolkit
 
-Notes and working examples for the BIOE60010 in-class programming test: Java and OOP from weeks 1–3, error handling from week 4, and Tutorials 1–4. Every class compiles, and every demo runs.
+Notes and working examples from Software Engineering module: Java and OOP from weeks 1–3, error handling from week 4, and Tutorials 1–4. Every class compiles, and every demo runs.
 
 **To find something fast:** in IntelliJ press **Ctrl+Shift+F** (Find in Files) and search for a word like `ButtonGroup`, `finally` or `instanceof`. Every file starts with a comment saying what it shows.
 
