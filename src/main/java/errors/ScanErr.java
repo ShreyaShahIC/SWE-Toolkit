@@ -1,0 +1,11 @@
+package errors;
+
+// Week 4: enum of return codes for the expected outcomes of scan().
+public enum ScanErr {
+    SCAN_SUCCESS,
+    SCAN_ERR_NO_CONNECT,
+    SCAN_ERR_NO_START,
+    SCAN_ERR_NO_DATAREAD,
+    SCAN_ERR_FATAL_SCANNER_ERROR,
+    SCAN_ERR_FATAL_ERROR
+}

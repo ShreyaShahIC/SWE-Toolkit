@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+application {
+    mainClass = 'Main'          // run any other demo with the green arrow next to its main()
+}
+
+run {
+    standardInput = System.in   // lets Scanner read the keyboard when run through Gradle
+}
+
+repositories {
+    mavenCentral()
+}
