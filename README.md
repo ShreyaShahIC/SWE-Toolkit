@@ -1,4 +1,4 @@
-# SE-Toolkit
+# SWE-Toolkit
 
 Notes and working examples from Software Engineering module: Java and OOP from weeks 1–3, error handling from week 4, and Tutorials 1–4. Every class compiles, and every demo runs.
 
